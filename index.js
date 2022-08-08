@@ -35,7 +35,7 @@ const user4 = {
     Hobby3: "",
 };
 const user5 = {
-    vornamen: "nicholas",
+    vornamen: "Nicholas",
     nachnamen: "Berg",
     email: "nullam.feugiat@yahoo.net",
     Hobby1: "essen",
@@ -63,7 +63,14 @@ console.log(
 );
 //Zusatzaufgaben:
 //3. Berücksichtige den Fall, dass ein User kein Interessensgebiet angegeben hat und formuliere die Ausgabe hierfür passend um.
+////////////////////////////////////////////////////////////////////////////////////////////
+console.log("Aufgabe3");
+console.log(user5.vornamen, user5.nachnamen, "hat keine Hobby's");
+
 //4. Nimm noch ein Registrierungsdatum mit auf und lass es ebenfalls ausgeben ("... ist mit der Adresse x seit y registriert...")
+////////////////////////////////////////////////////////////////////////////////////////////
+console.log("Aufgabe4");
+
 //Raja Underwood,pellentesque.tincidunt.tempus@outlook.org, Musik | IT | Sport,
 //Owen Bennett,aliquet@protonmail.net, Programmieren | Nachrichten | Aktien,
 //Amery Conway,erat.neque.non@google.ca, Reisen | Festivals,
