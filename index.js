@@ -71,6 +71,9 @@ console.log(user5.vornamen, user5.nachnamen, "hat keine Hobby's");
 ////////////////////////////////////////////////////////////////////////////////////////////
 console.log("Aufgabe4");
 
+user5("regestrierDate");
+console.log(user5);
+
 //Raja Underwood,pellentesque.tincidunt.tempus@outlook.org, Musik | IT | Sport,
 //Owen Bennett,aliquet@protonmail.net, Programmieren | Nachrichten | Aktien,
 //Amery Conway,erat.neque.non@google.ca, Reisen | Festivals,
