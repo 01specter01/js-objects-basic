@@ -70,8 +70,8 @@ console.log(user5.vornamen, user5.nachnamen, "hat keine Hobby's");
 //4. Nimm noch ein Registrierungsdatum mit auf und lass es ebenfalls ausgeben ("... ist mit der Adresse x seit y registriert...")
 ////////////////////////////////////////////////////////////////////////////////////////////
 console.log("Aufgabe4");
-
-user5("regestrierDate");
+user5.vornamen = "Maxi";
+user5.regestrierDate = "28/06/2022";
 console.log(user5);
 
 //Raja Underwood,pellentesque.tincidunt.tempus@outlook.org, Musik | IT | Sport,
